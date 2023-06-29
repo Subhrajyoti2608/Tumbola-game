@@ -1,2 +1,2 @@
-# C204-project-template
-template with assets.
+# Project-solution-204
+Tambola game stage-1
