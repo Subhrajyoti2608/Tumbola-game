@@ -1,2 +1,2 @@
 # Enjoy the game!!!!!!!!
-Tambola game stage-3
+Tambola game
